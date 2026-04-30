@@ -48,11 +48,10 @@ input, select, textarea {
 .phone-group {
     display: flex;
     gap: 10px;
-    width: 60px;
 }
 
 #countryCode {
-    width: 130px;
+    width: 90px;
 }
 
 #phone {
