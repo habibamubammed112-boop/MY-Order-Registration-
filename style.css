@@ -26,7 +26,7 @@
 
 .lang-switch:hover { background-color: #166534; }
 
-h2 { color: #064e3b; text-align: center; margin-bottom: 25px; }
+h2 { color: Red; text-align: center; margin-bottom: 25px; }
 
 label {
     display: block;
